@@ -1,0 +1,9 @@
+---
+slug: :gyazo_support
+depends:
+  mikutter: '3.2'
+  plugin: []
+version: '1.0'
+author: EbiflyBB
+name: gyoza_support
+description: 3.3.4以下でgyazoを開けるようにします
